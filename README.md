@@ -1,4 +1,4 @@
-A tool for lauch java web app with .exe (not support jsp)
+A tool for launch java web app with .exe (not support jsp)
 
 ##How to use?
 
