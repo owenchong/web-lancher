@@ -1,4 +1,4 @@
-package com.itliren.lancher.utils;
+package com.itliren.launcher.utils;
 
 
 import org.apache.log4j.Logger;

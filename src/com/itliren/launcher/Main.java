@@ -1,10 +1,10 @@
-package com.itliren.lancher;
+package com.itliren.launcher;
 
 import org.apache.log4j.Logger;
 import org.eclipse.jetty.server.Server;
 import org.eclipse.jetty.webapp.WebAppContext;
 
-import com.itliren.lancher.utils.ConfigUtils;
+import com.itliren.launcher.utils.ConfigUtils;
 
 
 public class Main {
